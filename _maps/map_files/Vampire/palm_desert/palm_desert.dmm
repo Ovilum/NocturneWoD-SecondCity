@@ -2895,10 +2895,6 @@
 /obj/structure/chair/sofa/city_bench/metal/right,
 /turf/open/floor/carpet/darkpack/old,
 /area/vtm/palm_desert/interior/fitness)
-"cxY" = (
-/obj/machinery/vending/hydroseeds,
-/turf/open/floor/plating/sidewalk/poor,
-/area/vtm/palm_desert/outside/commercial)
 "cyd" = (
 /obj/structure/table/no_smooth/large/wood/square{
 	dir = 8
@@ -5926,10 +5922,6 @@
 /obj/effect/spawner/random/trash/mess,
 /turf/open/floor/city/toilet,
 /area/vtm/palm_desert/interior/bathroom)
-"ePd" = (
-/obj/effect/landmark/start/darkpack/camarilla/towerwork,
-/turf/open/floor/city/toilet,
-/area/vtm/palm_desert/interior/millennium)
 "ePt" = (
 /obj/structure/chair/sofa/corp/corner{
 	dir = 2;
@@ -6261,6 +6253,10 @@
 /mob/living/basic/szlachta/hostile,
 /turf/open/floor/plating/stone,
 /area/vtm/interior/sewer)
+"fdA" = (
+/obj/effect/landmark/start/darkpack/camarilla/towerwork,
+/turf/open/floor/wood/large,
+/area/vtm/palm_desert/interior/millennium)
 "fdO" = (
 /obj/structure/railing,
 /obj/effect/turf_decal/siding/wood/dark,
@@ -7403,6 +7399,10 @@
 /obj/machinery/light/small/dim/directional/south,
 /turf/open/floor/carpet/darkpack/redsilver,
 /area/vtm/interior/ghetto)
+"fUL" = (
+/obj/machinery/vending/hydroseeds,
+/turf/open/floor/plating/sidewalk/poor,
+/area/vtm/palm_desert/outside/commercial)
 "fUS" = (
 /obj/machinery/light/prince/directional/north,
 /obj/structure/chair/sofa/corp/left{
@@ -7671,17 +7671,6 @@
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/city/industrial/large,
 /area/vtm/palm_desert/interior/strip_mall_arcade)
-"gia" = (
-/obj/structure/platform/lowwall/brick,
-/obj/structure/table,
-/obj/effect/decal/wallpaper/grey/low{
-	color = "#6d6d6d"
-	},
-/obj/structure/retail/costume_store{
-	dir = 1
-	},
-/turf/open/floor/city/circled/large,
-/area/vtm/palm_desert/interior/xxx_store)
 "gid" = (
 /obj/structure/chair/sofa/corner/brown,
 /obj/structure/sign/poster/city/dmc/directional/north,
@@ -24582,6 +24571,10 @@
 	},
 /turf/open/misc/dirt,
 /area/vtm/palm_desert/outside/supply)
+"trN" = (
+/obj/effect/landmark/start/darkpack/camarilla/towerwork,
+/turf/open/floor/city/toilet,
+/area/vtm/palm_desert/interior/millennium)
 "tsT" = (
 /obj/structure/table/countertop/red,
 /obj/machinery/light/directional/north{
@@ -24823,10 +24816,6 @@
 /obj/structure/flora/rock/stalagmite,
 /turf/open/floor/plating/rough/cave,
 /area/vtm/interior/caves)
-"tEs" = (
-/obj/effect/landmark/start/darkpack/camarilla/towerwork,
-/turf/open/floor/wood/large,
-/area/vtm/palm_desert/interior/millennium)
 "tEu" = (
 /obj/structure/flora/bush/sparsegrass/style_random{
 	pixel_x = -2
@@ -25227,6 +25216,17 @@
 	},
 /turf/open/floor/wood/smooth/old,
 /area/vtm/palm_desert/interior/farm)
+"tSZ" = (
+/obj/structure/platform/lowwall/brick,
+/obj/structure/table,
+/obj/effect/decal/wallpaper/grey/low{
+	color = "#6d6d6d"
+	},
+/obj/structure/retail/costume_store{
+	dir = 1
+	},
+/turf/open/floor/city/circled/large,
+/area/vtm/palm_desert/interior/xxx_store)
 "tTa" = (
 /obj/structure/platform/lowwall/junk/window,
 /obj/structure/barricade/wooden/crude{
@@ -29593,9 +29593,6 @@
 /obj/structure/table,
 /obj/effect/decal/wallpaper/grey/low{
 	color = "#6d6d6d"
-	},
-/obj/structure/retail/antique{
-	dir = 1
 	},
 /turf/open/floor/city/circled/large,
 /area/vtm/palm_desert/interior/xxx_store)
@@ -57718,7 +57715,7 @@ vBq
 vBq
 vBq
 oIO
-cxY
+fUL
 dqD
 dqD
 but
@@ -61931,7 +61928,7 @@ ncp
 ncp
 shw
 ffb
-gia
+tSZ
 nRd
 gnn
 nRd
@@ -64269,7 +64266,7 @@ cTX
 vow
 rEK
 rEK
-ePd
+trN
 xxv
 uoU
 uoU
@@ -64555,7 +64552,7 @@ jjf
 nEs
 nEs
 hzR
-tEs
+fdA
 aMo
 nPs
 qOl
