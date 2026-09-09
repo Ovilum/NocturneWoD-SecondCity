@@ -10560,6 +10560,10 @@
 /obj/structure/bed/dogbed,
 /turf/open/floor/plating/rough/cave,
 /area/vtm/interior/caves)
+"iwn" = (
+/obj/effect/landmark/start/darkpack/camarilla/towerwork,
+/turf/open/floor/city/toilet,
+/area/vtm/palm_desert/interior/millennium)
 "iwu" = (
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/structure/railing/corner{
@@ -15274,6 +15278,10 @@
 /obj/machinery/light/prince/directional/west,
 /turf/open/floor/wood/smooth/old,
 /area/vtm/interior/library)
+"maG" = (
+/obj/effect/landmark/start/darkpack/camarilla/towerwork,
+/turf/open/floor/wood/large,
+/area/vtm/palm_desert/interior/millennium)
 "mbj" = (
 /obj/structure/chair/comfy/darkpack/dark{
 	dir = 8
@@ -23521,6 +23529,10 @@
 /obj/structure/lamppost/three{
 	dir = 4
 	},
+/turf/open/floor/plating/sidewalk/poor,
+/area/vtm/palm_desert/outside/commercial)
+"ssf" = (
+/obj/machinery/vending/hydroseeds,
 /turf/open/floor/plating/sidewalk/poor,
 /area/vtm/palm_desert/outside/commercial)
 "ssh" = (
@@ -57692,7 +57704,7 @@ vBq
 vBq
 vBq
 oIO
-dqD
+ssf
 dqD
 dqD
 but
@@ -64243,7 +64255,7 @@ cTX
 vow
 rEK
 rEK
-rEK
+iwn
 xxv
 uoU
 uoU
@@ -64529,7 +64541,11 @@ jjf
 nEs
 nEs
 hzR
+<<<<<<< Updated upstream
 aMo
+=======
+maG
+>>>>>>> Stashed changes
 aMo
 nPs
 qOl
